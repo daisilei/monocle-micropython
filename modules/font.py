@@ -25,7 +25,7 @@ import sys
 import struct
 from sprite import Sprite
 from glyph import Glyph
-from font_ShareTechMonoBitmap_Regular_64 import data as font_data
+from font_ShareTechMono_Regular_48 import data as font_data
 
 
 class BytesFile:
