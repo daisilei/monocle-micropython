@@ -64,4 +64,4 @@ def show(*args):
 
 
 def clear():
-    show()
+    show(Text('.', 0, 0, 0x000000))
