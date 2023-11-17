@@ -132,4 +132,4 @@ class Font:
         return sprite
 
 
-SYSTEM_FONT = Font(BytesFile(font_data))
+SYSTEM_FONT = Font("newfontcn.bin")
